@@ -1,5 +1,5 @@
 import os   #libreria para interactuar con el sistema operativo
-import openpyxl 
+import openpyxl  #para gestion de documentos tipo xls
 import subprocess
 
 # Lista de servidores a los que haremos ping
