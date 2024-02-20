@@ -1,6 +1,6 @@
 import os   #libreria para interactuar con el sistema operativo
 import openpyxl  #para gestion de documentos tipo xls
-import subprocess
+import subprocess #no entendi
 
 # Lista de servidores a los que haremos ping
 servidores = ["172.16.11.187","172.16.11.209","172.16.11.135","172.16.11.14","172.16.11.9","172.16.11.223",
